@@ -12,6 +12,6 @@ The dashboard provides:
 ## 🖼️ Dashboard Preview
 Here is a preview of the dashboard:
 
-![Virat Kohli Dashboard](images/Dashboard_Screenshot.png)
+![Virat Kohli Dashboard](Dashboard_Screenshot.png)
 
 ## 📂 Project Structure
